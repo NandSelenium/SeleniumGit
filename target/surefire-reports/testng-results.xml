@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-14T11:04:52 IST" name="Suite" finished-at="2020-03-14T11:05:02 IST" duration-ms="10838">
+    <groups>
+    </groups>
+    <test started-at="2020-03-14T11:04:52 IST" name="Test" finished-at="2020-03-14T11:05:02 IST" duration-ms="10838">
+      <class name="testNG.RunParallel">
+        <test-method signature="executSessionOne()[pri:0, instance:testNG.RunParallel@7133da86]" started-at="2020-03-14T11:04:52 IST" name="executSessionOne" finished-at="2020-03-14T11:05:02 IST" duration-ms="10547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executSessionOne -->
+        <test-method signature="executSessionThree()[pri:0, instance:testNG.RunParallel@7133da86]" started-at="2020-03-14T11:04:52 IST" name="executSessionThree" finished-at="2020-03-14T11:05:02 IST" duration-ms="10772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executSessionThree -->
+        <test-method signature="executeSessionTwo()[pri:0, instance:testNG.RunParallel@7133da86]" started-at="2020-03-14T11:04:52 IST" name="executeSessionTwo" finished-at="2020-03-14T11:05:02 IST" duration-ms="10804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeSessionTwo -->
+      </class> <!-- testNG.RunParallel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
